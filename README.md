@@ -1,3 +1,4 @@
 # FakeSlotz
-Plugin can change:  
-MaxOnlinePlayers on server ServerList status slots for server
+- Plugin can change:
+    - MaxOnlinePlayers on server
+    - ServerList status slots for server
