@@ -1,0 +1,14 @@
+name: FakeSlotz
+main: FakeSlotz\Main
+author: PlexOfDevs
+version: 0.0.1
+api: [3.3.4]
+commands:
+ smaxc:
+  description: "set max player count"
+  usage: "/smaxc"
+  permission: op
+ sminc:
+  description: "set min player count"
+  usage: "/sminc"
+  permission: op
